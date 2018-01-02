@@ -1,0 +1,4 @@
+ReactDOMRe.renderToElementWithId(
+		<Stepper />,
+		"root"
+);
